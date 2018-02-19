@@ -8,17 +8,17 @@ I do NOT recommend you use this program on Windows however you are free to use t
 
 # How to use
 
-Download the Python project above
-Download TSSChecker from here: https://github.com/tihmstar/tsschecker
-Extract the files from TSSChecker into the same directory as the script
-Open a terminal and chmod +x the file which will be executed
-Run the script
+Download the Python project above.
+Download TSSChecker from here: https://github.com/tihmstar/tsschecker.
+Extract the files from TSSChecker into the same directory as the script.
+Open a terminal and chmod +x the file which will be executed.
+Run the script.
 
 # Optional
 
-If you are on any other OS then you may have to edit to subprocess.call command from ./tsschecker_macos to tsschecker_windows.exe and etc
+If you are on any other OS then you may have to edit to subprocess.call command from ./tsschecker_macos to tsschecker_windows.exe and etc.
 
-If you are editing the file name for Windows, be sure to remove the ./ otherwise the program will fail to find the tsschecker executable1
+If you are editing the file name for Windows, be sure to remove the ./ otherwise the program will fail to find the tsschecker executable.
 
 
 
