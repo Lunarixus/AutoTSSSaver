@@ -1,6 +1,9 @@
 #Import modules for the program
 import urllib.request
 import subprocess
+import time
+
+print("Please be aware that as of recently iNeal has cut off 32bit devices on the API so this program is now 64bit only")
 
 #Set the version for comparison (Change if you want but it auto updates)
 set_version = ('11.2.6')
